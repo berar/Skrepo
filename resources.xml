@@ -1,0 +1,9 @@
+<resources>
+	<resource>
+		<uri>http://tfzr.rs/Rasporedi</uri>
+		<element>
+			<tag>div</tag>
+			<attrib name="class">post</attrib>	
+		</element>
+	</resource>
+</resources>
